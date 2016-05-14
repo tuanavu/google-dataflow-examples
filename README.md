@@ -7,6 +7,12 @@
 
 IPython Notebook(s) demonstrating Dataflow functionality.
 
+<br/>
+<p align="center">
+  <img src="https://resources.atlasnet.eu/images/pages/google-cloud/cloud-dataflow.png">
+</p>
+
+
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [HelloWorld](http://nbviewer.jupyter.org/github/tuanvu216/google-dataflow-examples/blob/master/notebooks/HelloWorld.ipynb) | Simple Hello World Examples using Google Cloud Dataflow |
